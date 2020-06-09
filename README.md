@@ -1,6 +1,6 @@
 # Pokémon information
 
-![Page Home](https://github.com/eltoncelestino/Pokemon-Information-React/blob/master/Captura%20de%20tela%20de%202020-06-08%2001-26-00.png?raw=true)
+![Page Home](https://github.com/eltoncelestino/Pokemon-React-Redux/blob/master/screenshot.png)
 
  
 ## About this project

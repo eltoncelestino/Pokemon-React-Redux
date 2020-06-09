@@ -1,0 +1,11 @@
+.navigate button{
+    font-size: 1.2rem;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.navigate input {
+    width: 100px;
+    margin-left: 5px;
+    font-weight: bold;
+}

@@ -4,10 +4,10 @@
 
  
 ## About this project
-This is a small application developed in a React mini-course, taught by Professor Jefferson de Carvalho.
+This is the second part of the application developed in a React mini-course, taught by Professor Jefferson de Carvalho. In this application, Redux was used to control the general state of the application.
 
 ## Why?
-The objective of this first part of the project is: To implement a React application without Redux, to identify the differences and advantages of using Redux over a React project.
+The objective of this second part of the project is: To implement a React application using Redux, to identify the improvements proposed by this technology.
  
 ## Functionalities
 Consuming Pokémon API information. Using buttons to select the next or the previous Pokémon.
@@ -24,9 +24,9 @@ Consuming Pokémon API information. Using buttons to select the next or the prev
 ## Installation
  
 ## Cloning the Repository
-$ git clone https://github.com/eltoncelestino/Pokemon-Information-React.git
+$ git clone https://github.com/eltoncelestino/Pokemon-React-Redux.git
 
-$ cd Pokemon-Information-React
+$ cd Pokemon-React-Redux
  
 ## Installing dependencies
 $ yarn
@@ -38,6 +38,7 @@ $ npm install
 ## Tools and technologies used
 * Bootstrap
 * React
+* Redux
 
 ## Running application
 $ npm start
